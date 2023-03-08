@@ -1,0 +1,7 @@
+README.md comparison
+w/o vs w/ https://github.com/DavidAnson/markdownlint
+
+w/ READMEmd /notes/ [51]
+w/o READMEmd [95]
+
+Conclusion: Breaks a lot of stuff. Useful but needs clean-up.
