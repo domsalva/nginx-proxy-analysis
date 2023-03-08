@@ -1,10 +1,10 @@
 README.md comparison
 w/o vs w/ https://github.com/DavidAnson/markdownlint
 
-w/o 
+enabled
 README.md - problems (51)
 
-w/
+disabled
 README.md - problems (95)
 
 PS.,
